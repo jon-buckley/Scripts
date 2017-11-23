@@ -1,7 +1,7 @@
 {
     "user" : "SGN_Splunk",
     "password" : "St31L3n~0!#9",
-    "uri": "https://datafeeds.emailsecurity.symantec.com/",
+    "uri": "https://datafeeds.emailsecurity.symantec.com/test",
     "resetUri": "https://datafeeds.emailsecurity.symantec.com/test?reset=2017-07-01T00:00:00Z",
     "files" : {
         "cookiesFilePath" : "C:\\cookies",
